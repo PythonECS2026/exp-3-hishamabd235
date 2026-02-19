@@ -11,8 +11,9 @@ hra = 0.10 * bs
 gross_salary = bs + da + ta + hra
 
 print("\nSalary Details:")
-print(f"Basic Salary:  {bs}")
-print(f"DA (70%):      {da}")
-print(f"TA (30%):      {ta}")
-print(f"HRA (10%):     {hra}")
-print(f"Gross Salary:  {gross_salary}")
+print("Basic Salary:", bs)
+print("DA (70%):", da)
+print("TA (30%):", ta)
+print("HRA (10%):", hra)
+print("Gross Salary:", gross_salary)
+
